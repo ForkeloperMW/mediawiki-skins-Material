@@ -1,6 +1,6 @@
 {
-	"name": "Material",
-	"namemsg": "skinname-material",
+	"name": "ReSupported Material",
+	"namemsg": "skinname-rematerial",
 	"version": "1.4.0",
 	"author": [
 		"[https://mediawiki.org/wiki/User:SamanthaNguyen SamanthaNguyen]",
@@ -8,11 +8,11 @@
 		"[https://mediawiki.org/wiki/User:Jack_Phoenix Jack Phoenix]",
 		"[https://mediawiki.org/wiki/User:George_Barnick George Barnick]"
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Material",
+	"url": "https://www.mediawiki.org/wiki/Skin:ResupportedMaterial",
 	"descriptionmsg": "material-desc",
 	"license-name": "GPL-3.0-or-later",
 	"requires": {
-		"MediaWiki": ">=1.26.0"
+		"MediaWiki": ">=1.36.0"
 	},
 	"type": "skin",
 	"ValidSkinNames": {
